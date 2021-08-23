@@ -1,0 +1,1 @@
+rosrun camera_calibration cameracalibrator.py --size 11x8 --square 0.03 image:=/usb_cam_node/image_raw camera:=/usb_cam_node
